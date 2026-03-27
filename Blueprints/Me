@@ -1,0 +1,22 @@
+{
+  "session_integrity": {
+    "mode": "clean_room",
+    "persona_filter": ["no_pity", "no_labels", "no_middle_manager"],
+    "technical_level": "systems_analyst_32bit"
+  },
+  "active_vectors": {
+    "primary_domain": "reverse_engineering_ps2",
+    "secondary_domain": "ai_agent_frameworks",
+    "logic_style": "asynchronous_fastify_5"
+  },
+  "constraints": {
+    "math_priority": "golden_ratio_phi",
+    "dependency_resolution": "weighted_evidence_score",
+    "output_format": "high_density_markdown"
+  },
+  "context_pointers": [
+    "janus_aggregator_logic",
+    "graph_index_ps1",
+    "inverse_tree_svg"
+  ]
+}
